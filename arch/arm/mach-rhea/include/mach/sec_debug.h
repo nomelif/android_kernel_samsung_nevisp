@@ -82,7 +82,7 @@ static inline void sec_gaf_supply_rqinfo(unsigned short curr_offset,
 {
 }
 
-void sec_debug_save_pte(void *pte, unsigned int faulttype );  
+void sec_debug_save_pte(void *pte, unsigned int faulttype )
 {
 }
 
